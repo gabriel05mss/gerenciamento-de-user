@@ -1,6 +1,6 @@
 Sistema de gerenciamento de usuario,projeto basico realizado para fixação de fundamentos em c++.
 
-status do projeto: arquivado.
+status do projeto: finalizado
 
 email: gmoreira.silva2005@gmail.com
 
