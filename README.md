@@ -2,6 +2,6 @@ Sistema de gerenciamento de usuario,projeto basico realizado para fixação de f
 
 status do projeto: arquivado.
 
-Gabriel Moreira da Silva
+email: gmoreira.silva2005@gmail.com
 
 linkedin : www.linkedin.com/in/gabriel-moreira-73341a23b
